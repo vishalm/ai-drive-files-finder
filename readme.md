@@ -1,4 +1,4 @@
-# OneDrive AI File Search
+# OneDrive AI File Search (ai-drive-files-finder)
 
 ## 📌 Overview
 OneDrive AI File Search is a Streamlit-powered web application that leverages LLM-based search capabilities to help users find relevant files, images, and documents in their OneDrive storage. The app integrates with Microsoft OneDrive API and utilizes Ollama with Qwen (or DeepSeek) to enhance search accuracy.
@@ -24,8 +24,8 @@ Ensure you have the following installed:
 ### Setup Steps
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo/onedrive-llm-search.git
-   cd onedrive-llm-search
+   git clone https://github.com/vishalm/ai-drive-files-finder.git
+   cd ai-drive-files-finder
    ```
 2. **Install Dependencies:**
    ```sh
@@ -65,7 +65,7 @@ Ensure you have the following installed:
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For issues or support, reach out to **your-email@example.com** or open an issue on GitHub.
+For issues or support open an issue on GitHub.
 
 ---
 Made with ❤️ using Streamlit & Ollama 🚀
