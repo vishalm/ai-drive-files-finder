@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit cache and logs
+.streamlit/
+
+# Dependency files
+*.log
+
+# Docker-specific files
+.Dockerfile.swp
+*.dockerignore
+
+# VS Code files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+# .gitignore
+.env
